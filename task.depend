@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697107034 source:f:\phase 2\task\main.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
